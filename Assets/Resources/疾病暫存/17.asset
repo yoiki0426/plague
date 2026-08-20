@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c40bb5c457bf934790e400a3c65025b, type: 3}
+  m_Name: 17
+  m_EditorClassIdentifier: 
+  Human: 4
+  ID: 17
+  Name: "\u66EC\u50B7"
+  Diagnosis: 1a0000001b000000
+  Rare: 0
+  potion:
+  - {fileID: 11400000, guid: 0a7a96fdca9165f48a71aa014cc459da, type: 2}

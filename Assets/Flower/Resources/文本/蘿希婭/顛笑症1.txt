@@ -1,0 +1,13 @@
+[Lock]
+[start]
+[show]
+[ani,3][name]哈、哈哈哈……拜託……哈哈哈，普萊格……幫幫我……     [w]
+[ani,3][name]嗚嗚……哈哈哈哈哈，我、<color=#ff0000>控制不住自己</color>     [w]
+[ani,3][name]呼……哈哈哈哈……<color=#ff0000>嘴角要抽筋了，好痠</color>……嗚……     [w]
+
+[player]深呼吸，我會想辦法讓你冷靜下來。     [w]
+
+[ani,3][name]哈哈哈哈……救救我……嗚哈哈……     [w]
+[hide]
+[end]
+[UnLock]

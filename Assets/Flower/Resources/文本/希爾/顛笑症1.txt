@@ -1,0 +1,15 @@
+[Lock]
+[start]
+[show]
+[name]哈哈哈哈哈哈哈哈哈哈、哈哈哈…	         [w]
+
+[player]有辦法自行停止笑出聲嗎？[w]
+
+[name]哈哈…我停不、下來，嘴巴的<color=#ff0000>肌肉好酸痛…</color>)	[w]
+
+[player](看來<color=#ff0000>無法控制自己行為的樣子</color>)                   [w]
+我了解了，我馬上替你治療。[w]
+
+[hide]
+[end]
+[UnLock]

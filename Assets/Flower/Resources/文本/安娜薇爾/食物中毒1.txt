@@ -1,0 +1,17 @@
+[Lock]
+[start]
+[show]
+[ani,1][name]普萊格，您好。        [w]
+
+[ani,1][name]最近我一直<color=#ff0000>嘔吐</color>好不舒服  。     [w]
+[ani,2][name]這幾日都不能吃小甜點......。        [w]
+
+[player]嗯，那麼還有其他症狀嗎？     [w]
+
+[ani,1][name]還會<color=#ff0000>肚子痛</color>......感覺我快撐不住了......。        [w]
+
+[player]了解，我馬上幫你治療。     [w]
+[ani,0]
+[hide]
+[end]
+[UnLock]

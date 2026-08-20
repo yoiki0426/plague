@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43094a6523b01b49940c033366ef175, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  id: 2
+  Rare: 0
+  have: 1
+  Name: "\u85E5\u6C34\u74F6"
+  sell: 0
+  buy: 0
+  ItemDetails: "\u9673\u91C0\u85E5\u6C34\u4F7F\u5176\u63D0\u5347\u85E5\u6548"
+  sprite: {fileID: 21300000, guid: 6d3c3cfcc25b22f4bb96a25087a8893e, type: 3}
+  BackpackSprite: {fileID: 21300000, guid: aa1d6031c8ce5e542b42153d1f8b5d6a, type: 3}
+  Count: 1
+  Recipe_items: []
+  Recipe_count: 
+  Pro: 0
+  PotionDetails: []
+  Device: []

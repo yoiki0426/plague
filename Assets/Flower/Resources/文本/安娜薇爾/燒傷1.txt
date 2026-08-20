@@ -1,0 +1,22 @@
+[Lock]
+[start]
+[show]
+[ani,1]
+[ani,1][name]普萊格...您好。      [w]
+
+[player]你好，請問今天有哪裡不舒服呢？       [w]
+
+[ani,2][name]今天我在喝下午茶的時候，不小心被熱茶燙到了，現在那個地方<color=#ff0000>痛得好厲害</color>，好難受！      [w]
+
+[player]喝下午茶的時候嗎？那麼，我來看看疼痛的位置吧。      [w]
+
+[ani,3][name]麻煩您了，謝謝。       [w]
+
+[player](檢查了一下，看上去有些<color=#ff0000>灼傷</color>和紅腫。)         [w]
+[player]我馬上幫你開藥，回去塗抹在患處就沒問題了。       [w]
+
+[ani,3][name] 好的，謝謝您。        [w]
+[ani,0]
+[hide]
+[end]
+[UnLock]

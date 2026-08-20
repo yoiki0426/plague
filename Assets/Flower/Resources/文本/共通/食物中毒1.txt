@@ -1,0 +1,21 @@
+[Lock]
+[start]
+[show]
+[ani,1][name]你好，普萊格小姐。[w]
+
+[player]你好，請問今天有哪裡不舒服呢？[w]
+
+[ani,1][name]我昨天晚上<color=#ff0000>嘔吐</color>了一次            [w]
+然後這幾天也有<color=#ff0000>腹瀉</color>               [w]
+
+[player]除此之外還有其他症狀嗎？[w]
+
+[ani,2][name]嗯......沒有了。                    [w]
+
+[player]我知道了，接下來我會給你開點藥，回去按三餐飯後服用就沒問題了。[w]
+
+[ani,3][name]我知道了，謝謝你，普萊格小姐！[w]
+[ani,0]
+[hide]
+[end]
+[UnLock]

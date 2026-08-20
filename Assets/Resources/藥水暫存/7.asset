@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43094a6523b01b49940c033366ef175, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  id: 7
+  Rare: 1
+  have: 0
+  Name: "\u9000\u71D2\u7C89"
+  ItemDetails: 
+  sprite: {fileID: 21300000, guid: a025f47b8c627904d81e9a57684c4b3e, type: 3}
+  Count: 0
+  Recipe_items:
+  - {fileID: 11400000, guid: efdf01424c19e3240b0f22342dc94d4c, type: 2}
+  - {fileID: 11400000, guid: 0f1dba4320e433f4bbad52e6a2bc305e, type: 2}
+  - {fileID: 11400000, guid: d396c602049a6474eb5669e1b0a4d3a4, type: 2}
+  Recipe_count: 010000000100000001000000
+  Pro: 0
+  PotionDetails: 

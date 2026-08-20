@@ -1,0 +1,16 @@
+[Lock]
+[start]
+[show]
+[ani,2][name]普萊格，我這裡受傷了。	[w]
+
+[ani,1][name]我不管怎麼處理<color=#ff0000>傷口一直好不了。	</color>            [w]
+
+[player]那麼我先看看受傷的位置喔。[w]
+(檢查了一下，有不小的<color=#ff0000>傷口。</color>)         [w]
+接下來我會給你開點藥，回去塗抹在患處就沒問題了。[w]
+
+
+[ani,0]
+[hide]
+[end]
+[UnLock]

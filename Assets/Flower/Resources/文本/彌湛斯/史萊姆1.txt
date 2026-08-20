@@ -1,0 +1,20 @@
+[Lock]
+[start]
+[show]
+[ani,2][name]普萊格。           [w]
+
+[player](彌湛斯從海裡探出頭，他的身體不停地<color=#ff0000>流出黏液。</color>)              [w]
+.........	              [w]
+
+[ani,3][name].........	      [w]
+
+[player]史萊姆?	                 [w]
+
+[ani,3][name]不然呢?	           [w]
+
+[player]這樣的話症狀還有<color=#ff0000>想要持續進食</color>吧？       [w]
+
+[ani,0]
+[hide]
+[end]
+[UnLock]

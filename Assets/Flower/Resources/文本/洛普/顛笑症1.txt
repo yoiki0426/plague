@@ -1,0 +1,17 @@
+[Lock]
+[start]
+[show]
+[player]你好，請問今天有哪裡不舒服呢？[w]
+
+[name]人類哈哈哈哈哈哈哈哈...	    [w]
+
+[player]洛普？	             [w]
+
+[name]快、快幫我停哈哈哈哈...	[w]
+哈哈...快點...<color=#ff0000>嘴巴好痠</color>，我<color=#ff0000>控制不住</color>哈哈...      [w]
+
+[player]我知道了，看來這是——                 [w]
+
+[hide]
+[end]
+[UnLock]

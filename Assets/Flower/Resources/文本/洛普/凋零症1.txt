@@ -1,0 +1,18 @@
+[Lock]
+[start]
+[show]
+[ani,1][name]人類人類、你看這個。[w]
+
+[ani,2][name]身上莫名其妙地<color=#ff0000>開了好多白花</color>，而且<color=#ff0000>好癢... </color>          [w]
+
+[player]讓我看看......嗯，我知道了。[w]
+
+[ani,3][name]應該不是什麼很危險的病吧？森林裡也沒見過這種花...[w]
+
+[player]沒事的，現在就幫你治療。接下來給你的藥，只要發癢就要塗抹在癢的地方。[w]
+
+
+[ani,0]
+[hide]
+[end]
+[UnLock]

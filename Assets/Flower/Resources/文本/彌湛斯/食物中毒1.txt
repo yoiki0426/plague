@@ -1,0 +1,17 @@
+[Lock]
+[start]
+[show]
+[player]怎麼了？看起來病懨懨的，生病了嗎？         [w]
+
+[ani,2][name]不然我為什麼出現在這?	       [w]
+
+[player]......也是，那症狀呢?	      [w]
+
+[ani,1][name]<color=#ff0000>腹痛</color>，還有點<color=#ff0000>想吐。</color>               [w]
+
+[player]知道了，待會給你開點藥。[w]
+
+[ani,0]
+[hide]
+[end]
+[UnLock]

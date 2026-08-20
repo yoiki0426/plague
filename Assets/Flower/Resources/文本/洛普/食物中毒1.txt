@@ -1,0 +1,16 @@
+[Lock]
+[start]
+[show]
+[ani,1][name].........[w]
+
+[player]怎麼了？有哪裡不舒服嗎？	[w]
+
+[ani,1][name]肚子很痛...昨天還<color=#ff0000>吐了</color> ，然後就一直感到噁心。	           [w]
+今天也有<color=#ff0000>腹瀉</color>               [w]
+
+[player]了解了，我馬上幫你開藥，回去要按三餐飯後服用。	[w]
+
+[ani,0]
+[hide]
+[end]
+[UnLock]

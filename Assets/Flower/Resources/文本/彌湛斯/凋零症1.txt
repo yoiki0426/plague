@@ -1,0 +1,15 @@
+[Lock]
+[start]
+[show]
+[ani,3][name]普萊格，我身上忽然出現了這些<color=#ff0000>白色小花</color>。
+長得挺好看的，所以來給你看看。	      [w]
+
+[player]......	         	    [w]
+除了這個之外還有什麼異狀嗎?	         [w]
+
+[ani,3][name]嗯......長出花的地方有點<color=#ff0000>癢。</color>	         [w]
+
+[ani,0]
+[hide]
+[end]
+[UnLock]

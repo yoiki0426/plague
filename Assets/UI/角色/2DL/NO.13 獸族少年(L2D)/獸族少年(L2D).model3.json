@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "獸族少年(L2D).moc3",
+		"Textures": [
+			"獸族少年(L2D).2048/texture_00.png"
+		],
+		"Physics": "獸族少年(L2D).physics3.json",
+		"DisplayInfo": "獸族少年(L2D).cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

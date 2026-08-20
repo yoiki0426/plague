@@ -1,0 +1,17 @@
+[Lock]
+[start]
+[show]
+[ani,1][name]自從上次進食後，我一直<color=#ff0000>嘔吐</color>。       [w]
+導致這幾日都無法正常進食。     [w]
+
+[player]那麼還有其他症狀嗎？[w]
+
+[ani,2][name]這幾天偶爾還有<color=#ff0000>腹瀉</color>               [w]
+普萊格，請幫幫我。       [w]
+
+[player]我知道了，接下來我會給你開點藥，回去按三餐飯後服用就沒問題了。[w]
+
+[ani,0]
+[hide]
+[end]
+[UnLock]

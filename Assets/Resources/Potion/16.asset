@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43094a6523b01b49940c033366ef175, type: 3}
+  m_Name: 16
+  m_EditorClassIdentifier: 
+  id: 7
+  Rare: 2
+  have: 1
+  Name: "\u67F3\u9999\u8212\u7DE9\u5291"
+  sell: 30
+  buy: 40
+  ItemDetails: "\u7DE9\u89E3\u808C\u8089\u9178\u75DB"
+  sprite: {fileID: 21300000, guid: c96e0026d071c534ead535dfd666002e, type: 3}
+  Count: 1
+  Recipe_items:
+  - {fileID: 11400000, guid: 0f1dba4320e433f4bbad52e6a2bc305e, type: 2}
+  - {fileID: 11400000, guid: 476b71c01897cb146b8d9e2613c7d6da, type: 2}
+  Recipe_count: 0100000001000000
+  Pro: 0
+  PotionDetails:
+  - "\u84B8\u993E\u67F3\u6A39\u76AE\u8207\u8FF7\u8FED\u9999\n\u63D0\u53D6\u7D14\u9732\u8207\u7CBE\u6CB9"
+  - "\u5C07\u7D14\u9732\u8207\u7CBE\u6CB9\u6DF7\u5408\u71AC\u716E"
+  Device:
+  - {fileID: 11400000, guid: c1526ac971c0ca54c8db18e020d72ebe, type: 2}
+  - {fileID: 11400000, guid: 8ed64b1d81f207248874b87ade4f5d2b, type: 2}

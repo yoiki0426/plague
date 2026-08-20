@@ -1,0 +1,22 @@
+[Lock]
+[start]
+[show]
+[ani,1][name]你好，普萊格小姐。[w]
+
+[player]你好，請問今天有哪裡不舒服呢？[w]
+
+[ani,1][name]我這個位置有些<color=#ff0000>疼痛</color>            [w]
+
+[player]疼痛，除此之外還有其他症狀嗎？[w]
+
+[ani,2][name]沒有了。                   [w]
+
+[player]那麼我看看疼痛的位置喔。[w]
+(檢查了一下，看上去有<color=#ff0000>傷口</color>和些微出血)     [w]
+我知道了，接下來我會給你開點藥，回去塗抹在患處就沒問題了。[w]
+
+[ani,3][name]我知道了，謝謝你，普萊格小姐！[w]
+[ani,0]
+[hide]
+[end]
+[UnLock]

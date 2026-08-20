@@ -1,0 +1,18 @@
+[Lock]
+[start]
+[show]
+[ani,1][name]人類！我受傷了。	         [w]
+雖然用簡單的藥草處理了...但還是在<color=#ff0000>流血。</color>       [w]
+
+[player]知道了，讓我看看吧。     [w]
+(有著嚴重的<color=#ff0000>傷口</color>，附近還有不少擦傷痕跡。)         [w]
+
+[ani,2][name]你、你輕一點...	              [w]
+
+[player]怕痛？	          [w]
+
+[ani,2][name]......對啦。	                     [w]
+[ani,0]
+[hide]
+[end]
+[UnLock]
