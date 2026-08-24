@@ -20,7 +20,7 @@ public class MapCtrl : MonoBehaviour
             gameCtrl.KeySet();
             SceneManager.LoadScene(_SceneName);
         }
-        catch { }
+        catch { Debug.Log("1"); }
        
     }
     public void OpenMenu(GameObject gameObject)
