@@ -11,5 +11,10 @@
 
 遊戲核心玩法:  
 以體力值(AP)來行動，可透過睡覺回復  
-玩家可以選擇採藥、鍊藥或佑病患時可選擇看診  
+玩家可以選擇採藥、鍊藥或有病患時可選擇看診  
 不同日期、時間段可能觸發不同事件、活動、劇情  
+透過看診累積聲望，解鎖不同劇情與結局  
+
+<img width="800" height="404" alt="2026-08-2814-13-48-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/98812d5c-1e71-4047-8f45-0b37918be9d7" />  
+
+ *採用 2DLive 與 對話系統*
