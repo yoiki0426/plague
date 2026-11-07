@@ -20,3 +20,10 @@
 <img width="800" height="404" alt="2026-08-2814-13-48-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/98812d5c-1e71-4047-8f45-0b37918be9d7" />  
 
  *採用 2DLive 與 對話系統*
+
+
+
+
+<img width="714" height="401" alt="image" src="https://github.com/user-attachments/assets/ddb31e40-251e-4134-876a-a775cbce5620" />
+*根據對話選擇病徵，確認是甚麼疾病吧*
+
